@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0efe4c447bc7baf4dbd1757de9b07622, type: 3}
+  m_Name: DownSword
+  m_EditorClassIdentifier: 
+  skillName: "\uAC80\uB0B4\uB9AC\uAE30"
+  skillSprite: {fileID: 1061887225596870371, guid: 84860d4f372c0eb4380bf0805de164fe, type: 3}
+  abilityId: 5
+  skillexplain: "\uAC80\uC774\uD558\uB298\uC5D0\uC11C\uB0B4\uB824\uC628\uB2E4"
+  isUpgrade: 0
+  previouseAbility:
+  - {fileID: 11400000, guid: 4600b661b4c5efd49bd6b0bfdd639de4, type: 2}
+  skillLv: 0
+  requireLv: 0
+  maxLv: 0

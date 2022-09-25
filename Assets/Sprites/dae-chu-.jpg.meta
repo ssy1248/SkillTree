@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: 84860d4f372c0eb4380bf0805de164fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3765176994603448094
+    second: dae-chu-_0
+  - first:
+      213: -3810861961355128165
+    second: dae-chu-_1
+  - first:
+      213: 1061887225596870371
+    second: dae-chu-_2
+  - first:
+      213: 3879088770636207577
+    second: dae-chu-_3
+  - first:
+      213: 6215429096895892212
+    second: dae-chu-_4
+  - first:
+      213: -2366224071323674778
+    second: dae-chu-_5
+  - first:
+      213: -4666157557742068818
+    second: dae-chu-_6
+  - first:
+      213: 7509054618079594546
+    second: dae-chu-_7
+  - first:
+      213: 5598743964115088256
+    second: dae-chu-_8
+  - first:
+      213: 1870287954463647972
+    second: dae-chu-_9
+  - first:
+      213: 598479928687805925
+    second: dae-chu-_10
+  - first:
+      213: -352405278538906069
+    second: dae-chu-_11
+  - first:
+      213: -6054504397089847187
+    second: dae-chu-_12
+  - first:
+      213: 6343850064678259729
+    second: dae-chu-_13
+  - first:
+      213: 4125247392528765434
+    second: dae-chu-_14
+  - first:
+      213: -6763882547132716872
+    second: dae-chu-_15
+  - first:
+      213: -5391724952042963098
+    second: dae-chu-_16
+  - first:
+      213: 3499732161792783129
+    second: dae-chu-_17
+  - first:
+      213: -4174993731228587125
+    second: dae-chu-_18
+  - first:
+      213: -9193820666269836530
+    second: dae-chu-_19
+  - first:
+      213: -3028217942167046416
+    second: dae-chu-_20
+  - first:
+      213: -7716456946598831107
+    second: dae-chu-_21
+  - first:
+      213: -5707762428329887007
+    second: dae-chu-_22
+  - first:
+      213: 9018817623486379230
+    second: dae-chu-_23
+  - first:
+      213: 3800627856399122930
+    second: dae-chu-_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 1063, z: 1088, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dae-chu-_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1066
+        width: 257
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e84030e8776fbbc0800000000000000
+      internalID: -3765176994603448094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1068
+        width: 266
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b921169ac391d1bc0800000000000000
+      internalID: -3810861961355128165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1068
+        width: 267
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eef9393ec49cbe00800000000000000
+      internalID: 1061887225596870371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_3
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1068
+        width: 268
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d55af14faa45d530800000000000000
+      internalID: 3879088770636207577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_4
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1068
+        width: 257
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa4b1735d3a14650800000000000000
+      internalID: 6215429096895892212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 256
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66716c17ebb792fd0800000000000000
+      internalID: -2366224071323674778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 799
+        width: 268
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab97c07c6a7e3fb0800000000000000
+      internalID: -4666157557742068818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_7
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 801
+        width: 268
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23804a5f365853860800000000000000
+      internalID: 7509054618079594546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_8
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 800
+        width: 270
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0833171d8fbb2bd40800000000000000
+      internalID: 5598743964115088256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_9
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 801
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e86f714cf894f910800000000000000
+      internalID: 1870287954463647972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 257
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e543a2035a3e4800800000000000000
+      internalID: 598479928687805925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 533
+        width: 271
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2647bb24410c1bf0800000000000000
+      internalID: -352405278538906069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_12
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 533
+        width: 269
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d684b6834541afba0800000000000000
+      internalID: -6054504397089847187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_13
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 534
+        width: 271
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c8c7dc502e90850800000000000000
+      internalID: 6343850064678259729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_14
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 538
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af19842a5a2df3930800000000000000
+      internalID: 4125247392528765434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 256
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8a0b3f8acd122a0800000000000000
+      internalID: -6763882547132716872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_16
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 267
+        width: 270
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f7ed209bebc25b0800000000000000
+      internalID: -5391724952042963098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_17
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 267
+        width: 270
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9133ba8dbdb819030800000000000000
+      internalID: 3499732161792783129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_18
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 266
+        width: 269
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b23ae42517f06c0800000000000000
+      internalID: -4174993731228587125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_19
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 265
+        width: 258
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b5752a0dcf86080800000000000000
+      internalID: -9193820666269836530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 257
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f63ba663db99f5d0800000000000000
+      internalID: -3028217942167046416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_21
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 0
+        width: 270
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb91656a43a9e490800000000000000
+      internalID: -7716456946598831107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_22
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 270
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea731dff44f9c0b0800000000000000
+      internalID: -5707762428329887007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_23
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 0
+        width: 271
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed430f548d6492d70800000000000000
+      internalID: 9018817623486379230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dae-chu-_24
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 0
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1cf1816ea8eb430800000000000000
+      internalID: 3800627856399122930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

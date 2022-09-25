@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0efe4c447bc7baf4dbd1757de9b07622, type: 3}
+  m_Name: SwordAtk
+  m_EditorClassIdentifier: 
+  skillName: "\uAC80\uC220"
+  skillSprite: {fileID: -3765176994603448094, guid: 84860d4f372c0eb4380bf0805de164fe, type: 3}
+  abilityId: 0
+  skillexplain: "\uAC80\uC744\uD718\uB450\uB978\uB2E4"
+  isUpgrade: 1
+  previouseAbility: []
+  skillLv: 1
+  requireLv: 0
+  maxLv: 0
